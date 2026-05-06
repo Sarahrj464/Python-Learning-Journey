@@ -1,5 +1,14 @@
 # 🐍 Python Learning Journey
 
+## 👩‍💻 About Me
+
+Hi, I'm **Sarah** — a passionate CS student who loves building things with code.  
+I started Python from absolute basics and practiced every concept hands-on.
+
+- 🔗 GitHub: [@Sarahrj464](https://github.com/Sarahrj464)
+
+---
+
 ## 📖 About This Repository
 
 This repository documents my complete Python learning journey from **scratch to advance**, following the **Apna College Python Series** by **Shradha Khapra**. It includes all lectures practice code, notes, and mini projects built along the way.
@@ -72,14 +81,6 @@ python filename.py
 
 ---
 
-## 👩‍💻 About Me
-
-Hi, I'm **Sarah** — a passionate CS student who loves building things with code.  
-I started Python from absolute basics and practiced every concept hands-on.
-
-- 🔗 GitHub: [@Sarahrj464](https://github.com/Sarahrj464)
-
----
 
 ## 🙏 Credits
 
